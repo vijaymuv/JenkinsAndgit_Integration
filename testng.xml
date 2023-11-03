@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true"
+name="C:/Users/Friday/IdeaProjects/Project_Interview/src/test/java/runner/Adactin_Runnable.java"><classes><class name="runner.Adactin_Runnable"><methods><include name="loginAndBookHotel"/></methods></class></classes></test></suite>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="19.073" tests="4" skipped="0" failures="0" errors="0">
+<testcase classname="Verify and validate It Business Book Functionality" name=": Register Functionality - Example #1.1" time="4.433">
+<system-out><![CDATA[
+Given user navigates to the website.........................................passed
+When User clicks on Sign up and it switches to Sign up Options..............passed
+And user enters firstname "steve"...........................................passed
+And user enters lastname "rogers"...........................................passed
+And user types Email into "steve@gmail.com" text box........................passed
+And user types password "rogers@123"........................................passed
+And user clicks on Terms/Conditions checkbox................................passed
+Then user clicks on getstarted button to register...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify and validate It Business Book Functionality" name="Login Functionality" time="10.02">
+<system-out><![CDATA[
+Given user clicks on SignIn option..........................................passed
+When User enters email into Text Field......................................passed
+And Then user enters password...............................................passed
+Then login must be successful...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify and validate It Business Book Functionality" name="Jobs Functionality" time="0.727">
+<system-out><![CDATA[
+When User click Jobs and moves to Find a job and click it...................passed
+And user enters job title into textbox......................................passed
+And user clicks on search button............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify and validate It Business Book Functionality" name="Logout Functionality" time="3.736">
+<system-out><![CDATA[
+When User clicks on profile.................................................passed
+And user moves the cursor to logout and clicks logout button................passed
+Then user clicks ok to logout...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

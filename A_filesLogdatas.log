@@ -1,0 +1,36 @@
+2023-11-03 10:01:42 INFO  Step_It_BusinessBook:37 - user enters url into the browser
+2023-11-03 10:01:43 INFO  Step_It_BusinessBook:84 - user clicks on SignIn option
+2023-11-03 10:01:46 INFO  Step_It_BusinessBook:110 - User click Jobs and moves to Find a job and click it
+2023-11-03 10:01:56 INFO  Step_It_BusinessBook:129 - User clicks on profile
+2023-11-03 10:02:11 INFO  Step_It_BusinessBook:37 - user enters url into the browser
+2023-11-03 10:02:14 INFO  Step_It_BusinessBook:42 - User clicks on Sign up and it switches to Sign up Options
+2023-11-03 10:02:14 INFO  Step_It_BusinessBook:49 - user enters firstname 
+2023-11-03 10:02:15 INFO  Step_It_BusinessBook:54 - user enters lastname
+2023-11-03 10:02:15 INFO  Step_It_BusinessBook:61 - user types Email into text box
+2023-11-03 10:02:15 INFO  Step_It_BusinessBook:67 - user types password 
+2023-11-03 10:02:15 INFO  Step_It_BusinessBook:73 - user clicks on Terms & Conditions checkbox. 
+2023-11-03 10:02:15 INFO  Step_It_BusinessBook:78 - user clicks on getstarted button to register.
+2023-11-03 10:02:15 INFO  Step_It_BusinessBook:84 - user clicks on SignIn option
+2023-11-03 10:02:19 INFO  Step_It_BusinessBook:90 - User enters email into Text Field
+2023-11-03 10:02:19 INFO  Step_It_BusinessBook:96 - Then user enters password
+2023-11-03 10:02:19 INFO  Step_It_BusinessBook:101 - login must be successful.
+2023-11-03 10:02:22 INFO  Step_It_BusinessBook:110 - User click Jobs and moves to Find a job and click it
+2023-11-03 10:02:32 INFO  Step_It_BusinessBook:129 - User clicks on profile
+2023-11-03 10:03:38 INFO  Step_It_BusinessBook:37 - user enters url into the browser
+2023-11-03 10:03:40 INFO  Step_It_BusinessBook:42 - User clicks on Sign up and it switches to Sign up Options
+2023-11-03 10:03:40 INFO  Step_It_BusinessBook:49 - user enters firstname 
+2023-11-03 10:03:41 INFO  Step_It_BusinessBook:54 - user enters lastname
+2023-11-03 10:03:41 INFO  Step_It_BusinessBook:61 - user types Email into text box
+2023-11-03 10:03:41 INFO  Step_It_BusinessBook:67 - user types password 
+2023-11-03 10:03:41 INFO  Step_It_BusinessBook:73 - user clicks on Terms & Conditions checkbox. 
+2023-11-03 10:03:41 INFO  Step_It_BusinessBook:78 - user clicks on getstarted button to register.
+2023-11-03 10:03:41 INFO  Step_It_BusinessBook:84 - user clicks on SignIn option
+2023-11-03 10:03:45 INFO  Step_It_BusinessBook:90 - User enters email into Text Field
+2023-11-03 10:03:45 INFO  Step_It_BusinessBook:96 - Then user enters password
+2023-11-03 10:03:45 INFO  Step_It_BusinessBook:101 - login must be successful.
+2023-11-03 10:03:51 INFO  Step_It_BusinessBook:112 - User click Jobs and moves to Find a job and click it
+2023-11-03 10:03:51 INFO  Step_It_BusinessBook:118 - user enters job title into textbox.
+2023-11-03 10:03:52 INFO  Step_It_BusinessBook:123 - user clicks on search button.
+2023-11-03 10:03:52 INFO  Step_It_BusinessBook:131 - User clicks on profile
+2023-11-03 10:03:52 INFO  Step_It_BusinessBook:136 - user moves the cursor to logout and clicks logout button 
+2023-11-03 10:03:52 INFO  Step_It_BusinessBook:141 - user clicks ok to logout
